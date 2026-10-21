@@ -1,0 +1,22 @@
+DOCUMENT FICTIF — DÉMONSTRATION ACADÉMIQUE CLAIR
+Référence : C-FLUX-01 — version 1.0 — 20 octobre 2026
+Cartographie et garanties entièrement simulées, sans certification réelle.
+
+FLUX
+Commission fictive suisse -> infrastructure fictive en France -> scores et
+explications -> commissions habilitées suisse et française.
+Sauvegardes : France. Aucun accès depuis d'autres pays déclaré dans ce scénario.
+Destinataires et prestataire ultérieur figurent au contrat fictif.
+
+GARANTIES DOCUMENTÉES POUR L'EXERCICE
+Analyse des rôles, des communications Suisse–France, du secret et des engagements
+contractuels ; limitation de finalité, accès nominatifs et notification des changements.
+Mesures de chiffrement et traçabilité des accès privilégiés décrites dans la fiche
+de sécurité. Pas de transfert autorisé par une simple affirmation de localisation.
+
+CONCLUSION DE SIMULATION
+L'évaluateur fictif considère les garanties de ce flux définies et documentées.
+Tout pays, destinataire ou accès ajouté nécessite une nouvelle évaluation.
+Cette conclusion ne vaut pas validation d'un transfert réel.
+
+Contrôle documenté : D04.

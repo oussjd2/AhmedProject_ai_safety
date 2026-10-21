@@ -1,0 +1,31 @@
+DOCUMENT FICTIF — DÉMONSTRATION ACADÉMIQUE CLAIR
+Référence : B-DONNEES-01 — version 1.0 — 20 octobre 2026
+Aucun entretien, manuscrit, participant ou résultat de recherche réel n'est joint.
+
+FINALITÉ ET RÔLES
+L'étude fictive vise la synthèse scientifique d'entretiens. Le dossier interne
+documente sa tâche publique et un protocole éthique inventé. Le fournisseur
+agit sur instructions pour cette prestation, sans finalité propre autorisée.
+La réutilisation pour l'entraînement doit encore être verrouillée au contrat.
+
+DONNÉES
+Entretiens pseudonymisés contenant des informations sensibles ; manuscrits
+inédits. Les noms et identifiants directs sont retirés, mais une réidentification
+reste possible. Les sorties ne sont ni publiées ni utilisées pour une décision
+sur un participant. Accès limité aux chercheurs autorisés.
+
+CONSERVATION ET DROITS
+Contenu actif le temps de la tâche ; suppression sous trente jours et purge des
+sauvegardes à échéance. Un canal suivi permet accès, rectification et suppression.
+Interlocutrice fictive : Léa Exemple. Aucune durée ne vaut norme légale universelle.
+
+ANALYSE D'IMPACT SIMULÉE
+L'analyse identifie sensibilité, confidentialité, accès étrangers et clés comme
+points critiques. Elle exige clarification des flux et garanties techniques
+avant transmission. Son existence ne valide pas ces garanties non établies.
+
+PIÈCE ABSENTE
+La cartographie complète des transferts et la justification des garanties
+internationales ne sont PAS fournies. Aucun justificatif D04 n'est joint.
+
+Contrôles documentés : D01, D02 et D03. D04 reste ouvert.

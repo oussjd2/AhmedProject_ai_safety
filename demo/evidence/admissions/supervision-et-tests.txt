@@ -1,0 +1,28 @@
+DOCUMENT FICTIF — DÉMONSTRATION ACADÉMIQUE CLAIR
+Référence : C-SEC-01 — version 1.0 — 20 octobre 2026
+Tests, personnes et appréciations inventés pour la démonstration.
+
+SUPERVISION
+Le classement n'est qu'une aide. Une commission examine les pièces et motive
+chaque décision ; elle peut ignorer le score. Une seconde commission humaine
+traite les contestations. La supervision est déclarée partielle car la priorité
+de lecture est influencée par le classement : un suivi renforcé reste nécessaire.
+
+TESTS ET LIMITES
+Le protocole fictif compare les résultats entre groupes, mesure erreurs de rang
+et omissions, et contrôle la dérive à chaque campagne. Aucun taux réel n'est revendiqué.
+Des essais fictifs d'injection et d'accès inter-clients sont documentés.
+Toute nouvelle version requiert des tests avant approbation par l'université.
+
+SÉCURITÉ
+Chiffrement au repos et en transit, clés dédiées, accès privilégiés contrôlés,
+séparation des clients, journaux techniques sans contenu non nécessaire.
+Les métadonnées sont conservées trente jours dans cette configuration fictive ;
+toute durée requise par un régime applicable devra être analysée séparément.
+Incident : notification contractuelle sous vingt-quatre heures après découverte.
+
+CONDITION CONTINUE
+Maintenir décision humaine effective, recours accessible et contrôle trimestriel
+des biais. Le risque élevé reste affiché même si les mesures sont suivies.
+
+Contrôles documentés : T03, S01 et S02.

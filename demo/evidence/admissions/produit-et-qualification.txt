@@ -1,0 +1,35 @@
+DOCUMENT FICTIF — DÉMONSTRATION ACADÉMIQUE CLAIR
+Référence : C-PRODUIT-01 — version 1.0 — 20 octobre 2026
+Entreprise, modèle, programme et personnes entièrement inventés.
+
+PRODUIT ET CHAÎNE
+Campus Décision SAS, société fictive en France, fournit Admission Assist 3.0.
+Classement : modèle Rank-EDU 3.0 ; responsable du système : Campus Décision SAS.
+Infrastructure : Campus Hébergement, prestataire fictif français. La matrice des
+versions et responsabilités est jointe dans cette même fiche.
+
+USAGE RÉEL DU SCÉNARIO
+Aide au classement de candidatures d'un master conjoint Suisse–France.
+Des candidats situés en France sont ciblés par le programme et les résultats
+sont transmis au partenaire fictif français. La commission prend chaque décision.
+
+QUALIFICATION SIMULÉE
+Les traitements et acteurs sont distingués : LPrD pour l'activité publique
+vaudoise ; examen LPD du fournisseur privé et du lien suisse ; RGPD selon les
+faits du programme ciblant la France et le fournisseur français ; AI Act pour
+le fournisseur et l'usage de résultats en France.
+Le classement d'admission avec profilage est retenu comme haut risque dans
+cette simulation. Aucune dérogation de tâche accessoire n'est invoquée.
+Haut risque ne signifie pas usage interdit.
+
+FONCTIONS EXCLUES
+Aucune biométrie, inférence d'émotions, manipulation ou décision exclusivement
+automatisée. Scores expliqués, pas de média synthétique publié au public.
+Toute modification de modèle ou de finalité appelle une nouvelle évaluation.
+
+CALENDRIER
+Contrat : mars 2027 à février 2030. Les engagements de conformité future et les
+éventuelles transitions doivent être suivis, sans présenter une obligation
+future comme une violation actuelle.
+
+Contrôles documentés : T01, T02 et S03.

@@ -1,0 +1,26 @@
+DOCUMENT FICTIF — DÉMONSTRATION ACADÉMIQUE CLAIR
+Référence : C-DONNEES-01 — version 1.0 — 20 octobre 2026
+Aucune candidature réelle, note réelle ou donnée d'étudiant n'est présente.
+
+FINALITÉ ET RÔLES
+Classer à titre indicatif des candidatures du programme conjoint fictif.
+Les pièces académiques nécessaires sont traitées sur instructions ; aucune
+finalité propre ni utilisation pour entraîner le modèle n'est autorisée.
+La tâche publique et les conditions de traitement sont supposées documentées
+pour l'exercice ; ce document n'atteste pas de leur validité pour un vrai achat.
+
+MINIMISATION, CONSERVATION ET DROITS
+Données académiques ordinaires uniquement ; pas de donnée sensible demandée.
+Les dossiers actifs sont conservés pendant la campagne et sa période de recours
+fictive ; purge trente jours après clôture, sauvegardes comprises.
+Accès, rectification, export et suppression passent par une demande suivie.
+Interlocutrice fictive : Léa Exemple. La durée est un choix de scénario.
+
+ANALYSE D'IMPACT SIMULÉE
+L'analyse fictive documente les risques de biais, d'erreur et de refus injustifié.
+Les mesures prévues sont la décision humaine, un recours, l'explication des scores,
+les tests par groupes, la surveillance de dérive et le suivi des versions.
+Les mesures initiales sont considérées réalisées dans l'univers du scénario ;
+les obligations de suivi demeurent des conditions continues de l'évaluation.
+
+Contrôles documentés : D01 et D02.

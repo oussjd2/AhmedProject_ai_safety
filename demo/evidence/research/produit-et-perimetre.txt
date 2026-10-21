@@ -1,0 +1,29 @@
+DOCUMENT FICTIF — DÉMONSTRATION ACADÉMIQUE CLAIR
+Référence : B-PRODUIT-01 — version 1.0 — 20 octobre 2026
+L'entreprise et tous les engagements de ce document sont inventés.
+
+PRODUIT
+Research Harbor Inc., société fictive établie aux États-Unis, propose
+Manuscript Desk 2.0. Modèle à usage général RH-Summary 2.0, infrastructure
+RH-Cloud, sans lien avec une véritable offre commerciale.
+Contact de simulation : Jordan Exemple.
+
+USAGE
+Synthèse de manuscrits non publiés et d'entretiens sensibles pseudonymisés.
+Un chercheur vérifie tous les résumés. Le service ne décide ni admission,
+ni notation, ni recrutement. Aucun profilage, émotion ou biométrie déclarés.
+L'interface signale les textes synthétiques et permet leur correction.
+
+ACTEURS ET TERRITOIRES — HYPOTHÈSES DU SCÉNARIO
+L'université utilise les résultats en Suisse uniquement ; elle ne cible pas
+des personnes situées dans l'UE pour ce traitement. Le fournisseur déclare
+commercialiser le produit dans l'UE. Les qualifications fournisseur et
+déployeur sont donc enregistrées séparément dans l'examen fictif.
+Le produit commercial n'est pas automatiquement exclu au titre de la R&D.
+
+INFORMATIONS NON ÉTABLIES
+Les lieux d'accès du support et des sauvegardes sont incomplets. La liste des
+prestataires doit être complétée. Ce document ne prouve pas un transfert licite.
+Aucun rejet n'est fondé sur la seule nationalité américaine du fournisseur.
+
+Contrôles documentés : T01, T02 et S03.

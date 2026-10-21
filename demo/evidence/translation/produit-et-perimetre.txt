@@ -1,0 +1,31 @@
+DOCUMENT FICTIF — DÉMONSTRATION ACADÉMIQUE CLAIR
+Référence : A-PRODUIT-01 — version 1.0 — 20 octobre 2026
+Aucune entreprise, attestation, personne ou donnée réelle n'est représentée.
+
+PRODUIT ET FINALITÉ
+Lingua Campus SA (société fictive) fournit Lingua Public 1.0, fondé sur
+Translate-CH 1.0. Contact de simulation : Alex Exemple.
+Le service traduit des fiches pédagogiques déjà publiques. Une enseignante
+vérifie chaque sortie avant diffusion. Notes, admissions, recrutement,
+surveillance et documents confidentiels sont exclus du scénario.
+
+PÉRIMÈTRE DÉCLARÉ
+Utilisateurs, stockage, accès et destinataires : Suisse uniquement.
+La version considérée n'est pas commercialisée dans l'UE ; aucun résultat
+n'y est utilisé. Aucun contenu personnel n'est transmis au service.
+Le scénario ne statue pas sur d'autres traitements de l'université.
+
+CHAÎNE ET TRANSPARENCE
+Traduction : Translate-CH 1.0 ; fournisseur du système et du modèle :
+Lingua Campus SA. Infrastructure dédiée fictive, sans autre accès au contenu.
+L'interface indique clairement que le texte est généré par IA.
+Pas de profilage, biométrie, inférence d'émotions ou manipulation déclarés.
+Les données des clients ne servent pas à entraîner le modèle.
+
+NOTE DE QUALIFICATION SIMULÉE
+Pour cet usage inventé, les champs LPrD/LPD relatifs au contenu personnel
+ne sont pas activés ; les tests territoriaux UE sont négatifs sur les faits
+décrits. Ce n'est pas un avis juridique réel ni une exemption universelle.
+Les contrôles contractuels, de sécurité et d'acquisition restent maintenus.
+
+Contrôles documentés : T01, T02 et S03.

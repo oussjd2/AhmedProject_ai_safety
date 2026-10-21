@@ -1,0 +1,24 @@
+DOCUMENT FICTIF — DÉMONSTRATION ACADÉMIQUE CLAIR
+Référence : B-SEC-01 — version provisoire — 20 octobre 2026
+Mesures et tests inventés. Document volontairement insuffisant pour valider S01.
+
+MESURES ANNONCÉES
+Chiffrement au repos et en transit ; séparation logique des espaces clients.
+Le fournisseur annonce contrôler seul les clés. Les personnes pouvant accéder
+aux contenus en clair et les juridictions de support ne sont pas documentées.
+La disponibilité d'un contrôle indépendant des clés n'est pas démontrée.
+
+LIMITES ET CORRECTIONS REQUISES
+Obtenir la liste des accès privilégiés, des lieux de sauvegarde et des garanties
+correspondantes. Définir une architecture ou une autre protection adaptée au
+risque sensible ; faire réexaminer ce point avant transmission de données.
+Le motif n'est pas l'absence d'ISO ou la nationalité du fournisseur.
+
+GOUVERNANCE DOCUMENTÉE DANS LA SIMULATION
+Le chercheur relit les résumés et contrôle les omissions méthodologiques.
+Le protocole fictif décrit tests de qualité et attaques par injection de consignes.
+Journaux techniques sans contenu ; conservation trente jours et export possible.
+Les changements nécessitent l'accord du responsable ; incident signalé selon
+un délai contractuel de vingt-quatre heures, sans prétendre à un délai légal général.
+
+Contrôle S01 : À CORRIGER. Contrôle S02 : limites et supervision documentées.

@@ -1,0 +1,25 @@
+DOCUMENT FICTIF — DÉMONSTRATION ACADÉMIQUE CLAIR
+Référence : A-SEC-01 — version 1.0 — 20 octobre 2026
+Les résultats et mesures ci-dessous sont inventés pour le prototype.
+
+MESURES DÉCLARÉES
+Comptes individuels, séparation logique des clients, chiffrement des échanges
+et du stockage, accès privilégiés tracés. Infrastructure et clés en Suisse.
+Les journaux contiennent des métadonnées techniques, pas les textes soumis.
+Rétention illustrative : trente jours ; export à la demande du client.
+Notification contractuelle d'incident : vingt-quatre heures après découverte.
+Ce délai n'est pas présenté comme un délai légal universel.
+
+TESTS SIMULÉS
+Cent extraits publics sont comparés à des traductions humaines : quatre-
+vingt-douze sont jugés utilisables après relecture. Les erreurs principales
+touchent les termes spécialisés. Ces chiffres ne prouvent aucune performance
+d'un outil réel. La relecture reste obligatoire, quelle que soit la note.
+Des essais fictifs d'injection de consignes et d'accès à un autre espace
+client sont consignés ; les protections sont décrites sans certification ISO.
+
+SUPERVISION ET CHANGEMENTS
+L'enseignante peut modifier ou rejeter toute traduction. Toute nouvelle version
+nécessite une comparaison sur le même échantillon et l'accord du responsable.
+
+Contrôles documentés : S01 et S02.
