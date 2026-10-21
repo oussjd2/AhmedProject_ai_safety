@@ -69,6 +69,7 @@ Cloudflare a été testé avec lecture, sauvegarde, upload et téléchargement H
 
 ## Travail restant / décisions ouvertes
 
+- La vérification d’installation dans un clone vierge a été interrompue : Docker Desktop a planté au démarrage de son service inference-manager sur le PC d’origine, avant installation des dépendances et création de la base isolée. Le contrôle de prérequis a correctement refusé de continuer sans moteur Docker disponible. Le script complet `demo:setup` reste à vérifier sur le PC du frère ; ne pas confondre cette limite avec la recette applicative déjà réussie. Aucun reset Docker n’a été effectué.
 - Lancer et vérifier la démo sur le laptop du frère avec les instructions de setup.
 - Recueillir ses retours et faire valider le contenu juridique par le groupe.
 - Répétition sur le laptop final sans accès internet externe. Le déroulé oral est préparé par l’utilisateur.
